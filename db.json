@@ -1,4 +1,4 @@
-{
+[
     { id: '1', name: 'Keg small', price: 25, category: 'Wines', barcode: '123456', image: '🍷' },
     { id: '2', name: 'Keg large', price: 30, category: 'Wines', barcode: '654321', image: '🍾' },
     { id: '3', name: 'Rosé Wine', price: 22, category: 'Wines', barcode: '789012', image: '🌹' },
@@ -19,4 +19,4 @@
     { id: '18', name: 'Sparkling Wine', price: 40, category: 'Wines', barcode: '554433', image: '🍾' },
     { id: '19', name: 'Malbec', price: 34, category: 'Wines', barcode: '667788', image: '🍷' },
     { id: '20', name: 'Moscato', price: 27, category: 'Wines', barcode: '334455', image: '🍾' },
-}
+]
